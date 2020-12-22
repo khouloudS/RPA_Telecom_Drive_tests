@@ -30,7 +30,7 @@
     "jsonwebtoken": "^7.4.2",
     "mongoose": "^5.9.3",
     "mongoose-unique-validator": "^2.0.3",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "nodemon": "^1.18.3",
     "papaparse": "^5.2.0",
     "prettier": "^1.15.3",
