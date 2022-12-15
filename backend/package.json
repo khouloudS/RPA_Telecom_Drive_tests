@@ -36,7 +36,7 @@
     "prettier": "^1.15.3",
     "python-shell": "^1.0.8",
     "twilio": "^3.42.2",
-    "twilio-chat": "^3.3.5",
+    "twilio-chat": "^6.0.0",
     "unirest": "^0.6.0",
     "usb-detection": "^4.9.0",
     "uuid": "latest"
