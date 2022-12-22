@@ -27,7 +27,7 @@
     "express-fileupload": "^1.1.7-alpha.3",
     "geolocation": "^0.2.0",
     "internet-available": "^1.0.0",
-    "jsonwebtoken": "^7.4.2",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.3",
     "mongoose-unique-validator": "^2.0.3",
     "node-notifier": "^6.0.0",
